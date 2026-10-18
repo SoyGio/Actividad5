@@ -1,4 +1,4 @@
-# Actividad 5 — Entrenamiento y registro con MLflow
+# Actividad 5 — Preparación de datos, entrenamiento y comparación de modelos de inteligencia artificial
 
 Dataset: Breast Cancer Wisconsin (Diagnostic), accesible mediante `sklearn.datasets.load_breast_cancer`. 569 registros, 30 variables numéricas y una etiqueta binaria (0=maligno, 1=benigno). Uso académico exclusivamente.
 
