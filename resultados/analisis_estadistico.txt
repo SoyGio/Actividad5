@@ -1,0 +1,1 @@
+Prueba t pareada exploratoria sobre 5 folds de entrenamiento; estadistico=2.0784, p=0.1062. Folds correlacionados: no implica prueba confirmatoria.

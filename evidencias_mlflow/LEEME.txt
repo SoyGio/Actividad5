@@ -1,0 +1,1 @@
+01: captura de métricas de MLflow; 02: estructura de mlruns. No se adjunta el almacenamiento completo de MLflow. Para verificar cada modelo, abrir su artefacto MLmodel y probar carga.
